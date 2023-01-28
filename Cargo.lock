@@ -1185,6 +1185,8 @@ version = "0.1.0"
 dependencies = [
  "reqwest",
  "rocket",
+ "serde",
+ "serde_json",
  "tokio",
 ]
 
